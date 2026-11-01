@@ -5,8 +5,13 @@ This is a personal website made using HTML and CSS.
 
 <b>Here is the demo URL: https://web-ghost39.github.io/My-Website/ </b>
 <hr>
-<pre>
-It has:
-1- An about section, projects section and section for my cat.
-2- Original art.
-</pre>
+
+# Features:
+<ol>
+<li>An about section</li>
+<li> A section for my projects</li>
+<li>A section for my cat</li>
+<li> Original art for the about and cat section </li>
+
+  
+</ol>
